@@ -66,7 +66,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: var(--secondary);
+    color: #f0d296;
 }
 
 a {
@@ -1133,7 +1133,7 @@ span.text-logo {
 }
 
 .color-price{
-	color: #c9ab7d;
+	color: #F2D599;
 }
 
 /*******************************/
